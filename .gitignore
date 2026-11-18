@@ -1,0 +1,6 @@
+﻿.venv/
+.venv_bert/
+models/checkpoints/
+models/distilbert_category/
+__pycache__/
+src/support-ticket-classifier
